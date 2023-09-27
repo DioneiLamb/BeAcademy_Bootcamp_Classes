@@ -14,8 +14,8 @@ Para melhor entendimento, este arquivo está dividido planilhas sendo que elas a
 - Tabela dinâmica
  
  Na pasta landingpage há a página construida com HTML e CSS sobre uma barbearia ficticia chamda JB. Esta página tem o intuito de demosntrar de forma prática os conteúdos parendidos nas aulas do professor Luan Monteiro. Não há nenhuma implementação em javascript.
- A página de index.html pode ser acessada aqui:
- https://dioneilamb.github.io/BeAcademy-FromZeroToHero-ProjetoFinal/Landpage/index.html
+ ~~A página de index.html pode ser acessada aqui:
+ https://dioneilamb.github.io/BeAcademy-FromZeroToHero-ProjetoFinal/Landpage/index.html~~
  
  
- Na pasta denominada Banco de dados hé um exemploe de um banco simples criado e algumas consultas.
+ Na pasta denominada Banco de dados é um exemplo de um banco simples criado e algumas consultas.
